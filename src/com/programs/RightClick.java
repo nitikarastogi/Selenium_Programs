@@ -11,7 +11,7 @@ public class RightClick {
 	
 	public static void main(String[] args) throws Exception {
 		
-		int x,y,z,a,c,d;
+		
 		
 		WebDriver driver = new FirefoxDriver();
 		
