@@ -29,6 +29,8 @@ public class DragAndDrop {
 
 		dragAndDrop.perform();
 
+		driver.close();
+
 	}
 
 }
